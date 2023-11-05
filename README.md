@@ -17,3 +17,4 @@ When starting the app, the user has to scan the room to identify obstacles. Once
 
 ## Control Panel
 The Control Panel is the main interface for the user. By following the steps and activating the corresponding buttons, the user is able to complete the game and the robot is able to reach the target.
+![Control Panel](https://github.com/ciresimo/Mixed_Reality_Differential_Drive/blob/main/ControlPanel.jpg)
