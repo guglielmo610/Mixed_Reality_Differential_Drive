@@ -1,8 +1,9 @@
 # Virtual Robot Interaction with AR (HoloLens)
 <video width="640" height="360" controls>
-  <source src= "https://youtu.be/mQSO31yORGY" type="video/mp4">
+  <source src= https://youtu.be/mQSO31yORGY type="video/mp4">
   Your browser does not support the video tag.
 </video>
+
 This project is being developed as part of the course "Robotics Perception and Action" held at the University of Trento, Italy.
 It consists of an app that can be installed on Microsoft Hololens, an augmented reality visor. The software is written in C# and Unity is the motor. In particular, the Mixed Reality Toolkit was used to allow the user to interact with the program.
 
