@@ -12,7 +12,7 @@ When starting the app, the user has to scan the room to identify obstacles. Once
 ## Authors
 
 - [Guglielmo Del Col](https://github.com/guglielmo610)
-- Ciresa Simone
+- [Ciresa Simone](https://github.com/ciresimo)
 - Valeria Grotto
 - Iga Pawlak 
 
