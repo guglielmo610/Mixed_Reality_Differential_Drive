@@ -11,9 +11,9 @@ When starting the app, the user has to scan the room to identify obstacles. Once
 
 ## Authors
 
-- [Ciresa Simone](https://www.github.com/octokatherine)
+- [Guglielmo Del Col](https://github.com/guglielmo610)
+- Ciresa Simone
 - Valeria Grotto
-- Guglielmo Del Col
 - Iga Pawlak 
 
 ## Structure of the project
